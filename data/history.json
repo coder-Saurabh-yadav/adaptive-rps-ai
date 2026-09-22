@@ -1,0 +1,37 @@
+[
+    {
+        "round": 1,
+        "player_move": "rock",
+        "ai_prediction": null,
+        "ai_move": "rock",
+        "result": "draw"
+    },
+    {
+        "round": 2,
+        "player_move": "paper",
+        "ai_prediction": null,
+        "ai_move": "rock",
+        "result": "player"
+    },
+    {
+        "round": 3,
+        "player_move": "rock",
+        "ai_prediction": null,
+        "ai_move": "paper",
+        "result": "ai"
+    },
+    {
+        "round": 4,
+        "player_move": "rock",
+        "ai_prediction": "paper",
+        "ai_move": "scissors",
+        "result": "player"
+    },
+    {
+        "round": 5,
+        "player_move": "scissors",
+        "ai_prediction": "paper",
+        "ai_move": "scissors",
+        "result": "draw"
+    }
+]
